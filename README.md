@@ -5,7 +5,6 @@
 - [Documentation B - Design Process](https://master--employee-management-pa.netlify.app/static/media/Criterion_B_Design.fce6b69c57228487f208.pdf)
 - [Documentation B - Record of Tasks](https://master--employee-management-pa.netlify.app/static/media/Criterion_B_Record_of_Tasks.0d252a6f00e6b6decb9e.pdf)
 - [Documentation C - Code, data strcutures used, rationale](https://master--employee-management-pa.netlify.app/static/media/Criterion_C_Development.ff3afe793c08075e34f0.pdf)
-- [Documentation D - Functonality Video DEMO](https://master--employee-management-pa.netlify.app/static/media/Criterion_D_Functionality.79001cd5eb67152685fa.mkv)
 - [Documentation  E- Evaluation of the implementation](https://master--employee-management-pa.netlify.app/static/media/Criterion_E_Evaluation.e5b225ac25a504dd3a3e.pdf)
 - [Documentation - Appendix](https://master--employee-management-pa.netlify.app/static/media/Appendix.19cb4e65f7a58edf65fb.pdf)
 
