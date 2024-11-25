@@ -17,7 +17,6 @@ Next Employee Management System, is a software I engineered in High School for a
 
 ## Documentation
 
-https://employee-management.pacifictrout.com
 ## Screenshots
 # Login
 <img src="https://i.imgur.com/an2E5rX.png" width="300">
